@@ -31,9 +31,9 @@
 
 | 방식                       | 이유                      |
 | ------------------------ | ----------------------- |
-| ✅ REINFORCE              | 구현이 쉽고, 추천 정책을 학습 가능    |
-| PPO / DDPG               | 강력하지만 구현 복잡도와 안정성 이슈    |
-| supervised weight tuning | 쉽지만 feedback을 일반화하기 어려움 |
+| ✅ REINFORCE              | 추천 정책을 학습할 수 있음      |
+| PPO / DDPG               | 구현 복잡도와 안정성 이슈    |
+| supervised weight tuning | feedback을 일반화하기 어려움 |
 
 
 ---
