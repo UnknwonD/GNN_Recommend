@@ -43,7 +43,11 @@ GNN\_Recommend/
 
 ---
 
-## ⚙️ 사용 기술 스택
+## ⚙️ 사용 기술 스택 및 라이브러리
+
+```bash
+pip install -r requirements.txt
+```
 
 - **Python**, **PyTorch**, **PyTorch Geometric (PyG)**
 - **FAISS**, **Annoy** – 빠른 유사 사용자 검색용

@@ -1,0 +1,17 @@
+torch==2.7.0
+torch-geometric==2.6.1
+torch_cluster==1.6.3
+torch_scatter==2.1.2
+torch_sparse==0.6.18
+torch_spline_conv==1.2.2
+torchaudio==2.7.0
+torchvision==0.22.0
+pandas==2.2.2
+numpy==1.26.3
+joblib==1.4.2
+networkx==3.2.1
+seaborn==0.13.2
+folium==0.19.5
+scikit-learn==1.5.0
+matplotlib==3.9.0
+faiss-cpu==1.8.0.post1
