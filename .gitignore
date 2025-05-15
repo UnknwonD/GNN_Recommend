@@ -162,3 +162,5 @@ cython_debug/
 
 data
 pickle
+GNN/dataset.pkl
+GNN/metadata.pkl
