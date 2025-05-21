@@ -162,5 +162,7 @@ cython_debug/
 
 data
 pickle
-GNN/dataset.pkl
-GNN/metadata.pkl
+Modeling/dataset.pkl
+Modeling/metadata.pkl
+*.pt
+*.pkl
