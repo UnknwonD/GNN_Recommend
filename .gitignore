@@ -166,3 +166,4 @@ Modeling/dataset.pkl
 Modeling/metadata.pkl
 *.pt
 *.pkl
+GNN/.DS_Store
