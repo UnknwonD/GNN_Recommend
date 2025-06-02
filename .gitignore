@@ -167,3 +167,5 @@ Modeling/metadata.pkl
 *.pt
 *.pkl
 GNN/.DS_Store
+csv_data
+merged_csv
