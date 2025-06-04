@@ -169,3 +169,5 @@ Modeling/metadata.pkl
 GNN/.DS_Store
 csv_data
 merged_csv
+process_total/models
+process_total/.DS_Store
